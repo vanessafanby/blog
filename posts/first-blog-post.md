@@ -1,3 +1,11 @@
+# This is h1
+
+## This is h2
+
+_underline_
+
+**bold**
+
 ---
 title: This is my first blog post!
 published_at: 2022-11-04T15:00:00.000Z
@@ -33,19 +41,12 @@ We finally found the study space!! YAYYYY!! However, there wasn’t enough time 
 
 
 30 secs footage - I shoot this near the playground, where I used to walk my dog when I was young. 
-https://youtu.be/L5wy4IVtEyg
+
+**Click the image below to view:**
+
+[![Click to view](https://img.youtube.com/vi/L5wy4IVtEyg/0.jpg)](https://www.youtube.com/watch?v=L5wy4IVtEyg)
 
 
 
-
-
-
-# This is h1
-
-## This is h2
-
-_underline_
-
-**bold**
 
 
