@@ -1,6 +1,6 @@
 ---
 title: This is my Self Portrait documentation post!
-published_at: 2022-11-04T15:00:00.000Z
+published_at: 2024-03-28
 snippet: Documenting my process
 ---
 
